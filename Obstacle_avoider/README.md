@@ -27,7 +27,7 @@ An autonomous 4WD robot that detects and avoids obstacles in real-time using ult
 
 ## ⚡ Circuit Diagram
 
-![Circuit Diagram](Circuit_Diagram.jpg)
+![Circuit Diagram](Circuit_Diagram.jpeg)
 
 ## 🧠 How It Works
 
