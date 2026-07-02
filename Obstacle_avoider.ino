@@ -63,7 +63,7 @@ long dist_front = 400;
 long dist_left  = 400;
 long dist_right = 400;
 
-uint8_t obstacleStreak = 0; //using 9 bit int to save memory 
+uint8_t obstacleStreak = 0; //using 8 bit int to save memory 
 
 unsigned long lastClearMoveTime = 0;
 uint8_t consecutiveBumpCount = 0;
